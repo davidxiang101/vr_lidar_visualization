@@ -2,6 +2,7 @@ Notes about locations of possible datasets:
 
 Ford
 https://avdata.ford.com/
+ROS COMPATIBLE
 
 Waymo
 https://waymo.com/open/
