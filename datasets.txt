@@ -2,3 +2,19 @@ Notes about locations of possible datasets:
 
 Ford
 https://avdata.ford.com/
+
+Waymo
+https://waymo.com/open/
+has labels as well
+
+Audi
+https://www.a2d2.audi/a2d2/en.html
+very good point clouds
+
+NuScenes
+https://www.nuscenes.org/
+
+KITTI
+https://www.cvlibs.net/datasets/kitti/raw_data.php
+popular but mostly for cv
+
